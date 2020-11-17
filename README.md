@@ -1,4 +1,5 @@
 # Day and Night Login Page - Flutter UI App
+## Dependecies reuired are Dart, Flutter and Android Studio with Emmulator
 
 **Packages used:**
 
